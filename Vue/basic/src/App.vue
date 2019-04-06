@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import now from "@/components/Ten/Ten.vue";
+import now from "@/components/compotest/Parrent.vue";
 export default {
   components: {
     now
