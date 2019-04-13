@@ -1,2 +1,3 @@
 # SomeStuff
 Vuejs, Vuex, Nuxt, Node, Express, Sequelize etc...
+Angular
