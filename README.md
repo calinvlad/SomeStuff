@@ -19,3 +19,9 @@ Angular
 
 ### No_Sql Booster
 // https://nosqlbooster.com/
+
+
+# Components
+
+### Vue Select (from select2)
+// https://vue-select.org/
