@@ -25,3 +25,6 @@ Angular
 
 ### Vue Select (from select2)
 // https://vue-select.org/
+
+### Vee Validate (form validation)
+// https://www.npmjs.com/package/vee-validate
