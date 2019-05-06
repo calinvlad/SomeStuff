@@ -12,19 +12,27 @@ Angular
 // https://flaviocopes.com/
 
 ### A good Vue ChartJs example
-// https://bagja.net/blog/vue-chart-component-with-chartjs.html
+```https://bagja.net/blog/vue-chart-component-with-chartjs.html```
 
 
 # Apps
 
 ### No_Sql Booster
-// https://nosqlbooster.com/
+```https://nosqlbooster.com/```
 
 
 # Components
 
 ### Vue Select (from select2)
-// https://vue-select.org/
+```https://vue-select.org/```
 
 ### Vee Validate (form validation)
-// https://www.npmjs.com/package/vee-validate
+```https://www.npmjs.com/package/vee-validate```
+
+
+# Digitalocean
+### Multiple websites on one droplet
+```https://coderwall.com/p/rldrxa/set-up-multiple-websites-on-a-digital-ocean-droplet-running-nginx-and-node-js```
+
+### SSL Simplified
+```https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-1804```
