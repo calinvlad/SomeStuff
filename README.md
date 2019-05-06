@@ -6,7 +6,7 @@ Angular
 # Docs
 
 ### Navigation guards example VUE
- ''' http://www.eddyella.com/2017/04/24/vue-2-spa-restricting-components-for-logged-in-users-only/ '''
+ ``` http://www.eddyella.com/2017/04/24/vue-2-spa-restricting-components-for-logged-in-users-only/ ```
 
 ## Js things
 // https://flaviocopes.com/
