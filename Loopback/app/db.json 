@@ -1,0 +1,39 @@
+{
+  "ids": {
+    "User": 2,
+    "AccessToken": 12345679,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Product": 9,
+    "Category": 10
+  },
+  "models": {
+    "User": {
+      "1": "{\"realm\":\"calinvlad\",\"username\":\"calinvlad\",\"password\":\"$2a$10$qETHDCDeQLf4EN3fjq9/N.LCYWgq7EiMdvnww93l333FLUyLkrQ7m\",\"email\":\"calinvlad.t@gmail.com\",\"id\":1}"
+    },
+    "AccessToken": {
+      "12345678": "{\"id\":\"12345678\",\"userId\":1}",
+      "hfh45tmpHPN0sMwdevGbiUBNoAO8QHjSTWTlXD8TwZdHZ52LI7hZuMWQTbXpQSA0": "{\"id\":\"hfh45tmpHPN0sMwdevGbiUBNoAO8QHjSTWTlXD8TwZdHZ52LI7hZuMWQTbXpQSA0\",\"ttl\":1209600,\"created\":\"2019-05-08T15:02:00.675Z\",\"userId\":1}",
+      "f6JAKPinP6Ct3izgHEKyNS2L9QaRE3p821yTipW8G0teCFaN6sQTYkH9fKQpPtjW": "{\"id\":\"f6JAKPinP6Ct3izgHEKyNS2L9QaRE3p821yTipW8G0teCFaN6sQTYkH9fKQpPtjW\",\"ttl\":1209600,\"created\":\"2019-05-08T15:06:20.323Z\",\"userId\":1}",
+      "naL1eXDon63Ts7nKY2JnWM2Fa8zLVfxAoqHNvXzsnRcSlFmUsI85zt2RM5EEJozb": "{\"id\":\"naL1eXDon63Ts7nKY2JnWM2Fa8zLVfxAoqHNvXzsnRcSlFmUsI85zt2RM5EEJozb\",\"ttl\":1209600,\"created\":\"2019-05-08T15:17:11.045Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Product": {
+      "1": "{\"name\":\"10 gr Gold\",\"price\":269,\"id\":1}",
+      "2": "{\"name\":\"Sandwich\",\"price\":15,\"categoryId\":2,\"id\":2}",
+      "3": "{\"name\":\"Salad\",\"price\":200,\"id\":3}",
+      "4": "{\"name\":\"Salads\",\"price\":-100,\"id\":4}",
+      "5": "{\"name\":\"Baggels\",\"price\":100,\"id\":5}",
+      "6": "{\"name\":\"abc\",\"price\":299,\"id\":6}",
+      "7": "{\"name\":\"lowPrice\",\"price\":98,\"id\":7}",
+      "8": "{\"name\":\"all good\",\"price\":100,\"id\":8}"
+    },
+    "Category": {
+      "1": "{\"name\":\"Drinks\",\"id\":1}",
+      "2": "{\"name\":\"Food\",\"id\":2}"
+    }
+  }
+}
