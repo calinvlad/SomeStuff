@@ -1,0 +1,1 @@
+Babel (.babelec): can make es6 happen in node
