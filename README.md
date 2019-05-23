@@ -42,3 +42,7 @@ Angular
 
 ### SSH
 ```https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/Appendix/OSX/SSHKeyOSX.html```
+
+# MYSQL
+### Command Line
+```https://www.techotopia.com/index.php/The_mysql_Command-Line_Tool```
